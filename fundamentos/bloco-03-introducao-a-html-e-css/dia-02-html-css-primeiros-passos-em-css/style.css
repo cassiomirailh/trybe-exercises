@@ -1,0 +1,24 @@
+body{
+    font-size: 16px;
+}
+h1{
+    font-size: 65px;
+    color: orange;
+    font-style: sans-serif;
+}
+.paragrafosListas{
+    background-color: green;
+    font-weight: 600;
+    font-size: 3em;
+}
+
+#Amarelo{
+    color: yellow;
+}
+#Vermelho{
+    color: red;
+}
+#Marrom{
+    color: #845a49;
+}
+
