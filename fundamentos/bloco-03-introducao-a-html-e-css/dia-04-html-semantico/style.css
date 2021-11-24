@@ -1,0 +1,63 @@
+.cabeca{
+    background-color: azure;
+    text-align: center;
+    color: red;
+}
+.nave ul{
+    text-align: center;
+}
+.nave ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin: 0px 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: salmon;
+    padding: 10px;
+    border-radius: 20px;
+}
+.secao{
+    background-color:azure;
+    padding: 20px;
+    border: 2px solid grey;
+    border-radius: 10px;
+}
+.tudo {
+    display: block;
+    background-color: rgb(214, 230, 230);
+    border: 2px solid rgb(178, 192, 178);
+    width: 400px;
+}
+.classe p{
+    background-color:rgb(214, 195, 195);
+    padding: 9px;
+    border-radius: 10px;
+    border: 2px solid grey;
+    width: 600px;
+}
+.refer{
+    background-color: rgb(221, 197, 197);
+    border:2px solid grey;
+    width: 900px;
+}
+.lado{
+    display: block;
+    background-color: hotpink;
+    float: right;
+    position: relative;
+    top: -800px;
+    width: 300px;
+    height: 200px;
+    font-size: 500%;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.pe{
+    background-color: pink;
+    font-size: 50px;
+    border: 3px solid black;
+    border-radius: 10px;
+    width: 1500px;
+    height: 150px;
+}
